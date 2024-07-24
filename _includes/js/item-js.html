@@ -143,8 +143,7 @@ function displayItem(record, prev_id, next_id, compound_object) {
         /* set up grid system for compound object cards */
         itemImage = format.includes('compound_object') ? '<div class="row row-cols-2 row-cols-lg-4 g-2">' : "";
         /* set up download dropdown button for compound object page */
-        compoundDownload = '<div class="btn-group" role="group"><button class="btn btn-outline-primary dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false">Download</button> <ul class="dropdown-menu">';
-
+        
         /* generate a modal and card for each item in compound object */
         for (let i = 0; i < compoundItem.length; i++) {
             var compoundLink = findFileLink(compoundItem[i]);
