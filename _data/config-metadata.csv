@@ -1,15 +1,15 @@
 field,display_name,browse_link,external_link
 title,Name,
-creator,Creator,
 date,Date of Birth,
 description,About,
-keywords,Keywords,true
 location,Place of Birth,
+keywords,Keywords,true
 latitude,Latitude
 longitude,Longitude
-source,Source
+creator,Image Creator,
+source, Image Source
 identifier,Source Identifier,,
-type,Type,
-format,Format,
-rights,Rights,
+type,Item Type,
+format,Item Format,
+rights,Item Rights,
 rightsstatement,Rights Statement,,true
