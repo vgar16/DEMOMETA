@@ -4,8 +4,6 @@ date,Date of Birth,
 description,About,
 location,Place of Birth,
 keywords,Keywords,true
-latitude,Latitude
-longitude,Longitude
 creator,Image Creator,
 source, Image Source
 identifier,Source Identifier,,
