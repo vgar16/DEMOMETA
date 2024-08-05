@@ -1,8 +1,8 @@
 field,display_name,browse_link,external_link
 title,Name,
 date,Date of Birth,
-description,About,
 location,Place of Birth,
+description,Biography,
 keywords,Keywords,true
 creator,Image Creator,
 source, Image Source
